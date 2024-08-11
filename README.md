@@ -18,7 +18,8 @@ Si ya se cuenta con una matriz de distancias, wssc puede funcionar tanto para da
 
 ## 4. Implementación
 La función WSSC se implementa en R y se presenta un ejemplo práctico de cómo se aplicó a un conjunto de datos.
-[Ver el análisis completo](https://GONZALOCACERES2004.github.io/Funcion-WSSC/WSSC.html)
+[Ver el análisis completo](https://GONZALOCACERES2004.github.io/Funcion-WSSC-Within-Cluster-Sum-of-Squares
+/WSSC.html)
 
 ## 5. Beneficios
 •	Eficiencia Computacional: Optimizada para manejar grandes conjuntos de datos.
